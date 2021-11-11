@@ -1,0 +1,32 @@
+.container{
+    display: block;
+    align-content: center;
+    margin-top: 50px;
+    
+  
+}
+form{
+    display: grid;
+    width: 220px;
+    align-self: center;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    justify-content: center;
+    background: rgb(126, 126, 126)
+}
+img{
+    height: 200px;
+    width: 180px
+}
+button{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(18, 159, 184);
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+    cursor: pointer;
+}
